@@ -1,9 +1,10 @@
 {
   "members": [
     { "id": 1,"name": "Florence","membership-active": "true"},
-    { "id": 2,"name": "Liga","membership-active": "false"},
-    { "id": 3,"name": "Remy","membership-active": "false"},
-    { "id": 4,"name": "Guido","membership-active": "false"},
-    { "id": 5,"name": "Zach","membership-active": "false"}
+    { "id": 2,"name": "Liga","membership-active": "true"},
+    { "id": 3,"name": "Remy","membership-active": "true"},
+    { "id": 4,"name": "Guido","membership-active": "true"},
+    { "id": 5,"name": "Zach","membership-active": "true"},
+    { "id": 6,"name": "Yeey","If you got here you made it :)": "false"}
   ]
 }
